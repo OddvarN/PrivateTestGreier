@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://data.ssb.no/api/v0/no/table/05311/",
+			"url": "https://api.npolar.no/dataset/926d599e-38ea-546e-9e69-bfc731691d3c",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
